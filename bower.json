@@ -1,0 +1,22 @@
+{
+  "name": "financee-angucomplete",
+  "version": "0.1.1",
+  "authors": [
+    "Thom MF <thom@hat-framework.com>"
+  ],
+  "description": "Changed Angucomplete version",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Finance-e/angucomplete,
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+}
